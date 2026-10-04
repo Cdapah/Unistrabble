@@ -1,87 +1,82 @@
-# 🎮 Unistrabble
+# 🎮 UNISTRABBLE
 
-Unistrabble est un jeu de Scrabble innovant développé par des étudiants de l'Université de Strasbourg. Ce projet combine des technologies modernes pour créer une expérience de jeu unique et interactive.
+UNISTRABBLE est un jeu de Scrabble développé en équipe à l’Université de Strasbourg. Le projet associe développement logiciel, conception d’interfaces, gestion des données et fonctionnalités de jeu.
 
 ## 🌟 Fonctionnalités
 
 - Interface utilisateur moderne et intuitive
-- Mode hors ligne disponible
-- Mode en ligne (bientôt disponible)
-- Système de notation avancé
-- Statistiques de jeu en temps réel
-- Design responsive
+- Mode hors ligne
+- Système de notation
+- Statistiques de jeu
+- Accès au jeu et aux téléchargements depuis le site
 
-## 🛠️ Technologies Utilisées
+## ▶️ Jouer à UNISTRABBLE
 
-- **Frontend**
-  - Next.js
-  - React
-  - Tailwind CSS
-  - TypeScript
+Retrouvez le jeu sur le site :
 
-- **Backend**
-  - Python
-  - PostgreSQL
-  - MongoDB
+👉 **[Jouer à UNISTRABBLE](https://unistrabble.vercel.app/)**
 
-- **Jeu**
-  - Godot 4
+## 📥 Télécharger le jeu
 
-- **Outils de Développement**
-  - Git
-  - Bash
+Les téléchargements sont accessibles directement depuis le site :
 
-## 🚀 Installation
+👉 **[Accéder aux téléchargements](https://unistrabble.vercel.app/)**
 
-1. Clonez le dépôt :
-```bash
-git clone https://git.unistra.fr/aallali/unistrabble.git
-cd unistrabble
-```
+Choisissez la version proposée pour votre système d’exploitation et suivez les instructions disponibles sur le site.
 
-2. Installez les dépendances :
-```bash
-npm install
-```
+## 🛠️ Technologies utilisées
 
-3. Lancez le serveur de développement :
-```bash
-npm run dev
-```
+### Site web
+- Next.js
+- React
+- Tailwind CSS
+- TypeScript
 
-4. Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
+### Backend et données
+- Python
+- PostgreSQL
+- MongoDB
 
-## 📥 Téléchargement
+### Jeu
+- Godot 4
 
-Le jeu est disponible en téléchargement pour les plateformes suivantes :
-- [Windows](https://unistrabble.fr/downloads/unistrabble-windows.zip)
-- [Linux](https://unistrabble.fr/downloads/unistrabble-linux.zip)
-- [Mac](https://unistrabble.fr/downloads/unistrabble-mac.zip)
+### Outils de développement
+- Git
+- Bash
 
-## 👥 L'Équipe
+## 👥 L’équipe
 
-- **Ayoub** 👑 - Développeur Réseau/BDD/System
-- **Mohamed** - Développeur Full Stack
-- **Felix** - Développeur Full Stack
-- **Dariia** - Chef de projet
-- **Carole** - Designer UI/UX
-- **Ugo** - Développeur
-- **Salim** - Sound designer
-- **Malo** - Responsable des merges
-- **Amine** - Développeur
-- **Charbel** - Développeur Réseau
+UNISTRABBLE est un projet collectif réunissant plusieurs rôles complémentaires :
+
+- **Ayoub** — Développement réseau, bases de données et système
+- **Mohamed** — Développement full stack
+- **Felix** — Développement full stack
+- **Dariia** — Gestion de projet
+- **Carole DAPAH** — Design UI/UX
+- **Ugo** — Développement
+- **Salim** — Sound design
+- **Malo** — Gestion des merges
+- **Amine** — Développement
+- **Charbel** — Développement réseau
+
+## 🎨 Ma contribution — Carole DAPAH
+
+Participation à la conception UI/UX : organisation des interfaces, clarté des écrans et cohérence visuelle de l’expérience de jeu.
+
+Ce dépôt présente un travail collectif ; les contributions des autres membres de l’équipe sont créditées ci-dessus.
+
+## ℹ️ Disponibilité du projet
+
+Le jeu n’est plus accessible depuis l’ancien dépôt Git Unistra.
+
+Pour jouer ou télécharger une version disponible, utilisez désormais :
+
+**https://unistrabble.vercel.app/**
 
 ## 📝 Licence
 
-Ce projet est un projet étudiant de l'Université de Strasbourg. Tous droits réservés.
+Projet universitaire réalisé à l’Université de Strasbourg. Tous droits réservés.
 
 ## 🙏 Remerciements
 
-Nous tenons à remercier :
-- L'Université de Strasbourg pour son soutien
-- Nos professeurs pour leur guidance
-- Tous les testeurs qui ont contribué à améliorer l'expérience de jeu
-
-## 📞 Contact
-
-Pour toute question ou suggestion, n'hésitez pas à nous contacter via notre [page de contact](https://unistrabble.fr/contact).
+Merci à l’Université de Strasbourg, aux enseignants qui ont accompagné le projet et aux testeurs pour leurs retours.
